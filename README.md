@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boto3-stubs-lite-feedstock/blob/main/LICENSE.txt)
 
-Summary: Type annotations for boto3 1.24.33, generated with mypy-boto3-builder
+Summary: Type annotations for boto3 1.24.36, generated with mypy-boto3-builder
 
 Development: https://github.com/vemel/mypy_boto3_builder
 
@@ -149,4 +149,5 @@ Feedstock Maintainers
 =====================
 
 * [@maresb](https://github.com/maresb/)
+* [@vemel](https://github.com/vemel/)
 
