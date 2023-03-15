@@ -1,5 +1,5 @@
 {% set name = "boto3-stubs-lite" %}
-{% set version = "1.26.91" %}
+{% set version = "1.26.92" %}
 {% set lib_version = version.split(".post")[0] %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: bc77d83d85c47e4778eb316edbe8c28a18410caed5ca4789d91208fb16563bf6
+  sha256: c05adb3afab5b30fcc200d60156e56c37f324f126bb6503c07295d3ad05eaaa2
 
 build:
   number: 0
